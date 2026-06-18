@@ -1,1 +1,0 @@
-const a={name:"Ankush",age:20}
